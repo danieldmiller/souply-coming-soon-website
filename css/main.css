@@ -985,6 +985,11 @@ header .social-links ul li a:focus {
 	max-width: 1290px;
 }
 
+#home .credit a {
+	position: absolute; bottom: 30px; right: 0px;
+	color: rgba(255, 255, 255, 0.3);
+}
+
 #home.home-static {
 	background-image: url(../images/home-bg.jpg);
 	background-repeat: no-repeat;
